@@ -1,0 +1,47 @@
+
+
+#navbar{
+
+    flex-direction: column;
+    align-items: center;
+
+}
+#navbar .logo{
+
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+#showcase .showcase-content{
+
+    top: 95px;
+}
+
+#what .items{
+    display: block;
+}
+
+#what .items .item{
+    display: flex;
+}
+
+#what .items .item i{
+    align-self: center;
+    margin-right: 1.3rem;
+}
+
+#who .who-img{
+    display: none;
+}
+
+#contact{
+    display: block;
+}
+
+#contact .map{
+    height: 300px;
+    border-top: 4px solid black;
+}
+
+
+

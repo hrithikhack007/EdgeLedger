@@ -1,0 +1,28 @@
+
+#what .items .item{
+
+    display: flex;
+    text-align: left;
+
+}
+
+#what .items .item i{
+
+    align-self: center;
+    margin-right: 1.5rem;
+    flex: 1;
+    
+
+}
+
+
+#what .items .item .what-content{
+    text-align: center;
+    
+}
+
+
+
+#contact  .map{
+    flex: 2;
+}
