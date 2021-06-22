@@ -7,14 +7,15 @@
 
 }
 #navbar .logo{
-
+    /* display: none; */
     margin-bottom: 1rem;
     text-align: center;
 }
 
 #showcase .showcase-content{
 
-    top: 95px;
+    top: 97px;
+    bottom: 0;
 }
 
 #what .items{
